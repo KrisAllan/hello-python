@@ -1,6 +1,6 @@
 data = {"I am" : "Allan",
         "My Spirit Animal is" : "Tiger",
-        "because" : "I love Tiger",
+        "because" : "I love Tiger HAHAHAHA",
         "When not in school,I love to" : "Play Basketball",
         "I dream of being a/an in the future." : "Mechanical Engineer"
         }
